@@ -1,0 +1,6 @@
+package JavaBean;
+
+public class Esami {
+	String nome, cognome , dataE, materia;
+
+}

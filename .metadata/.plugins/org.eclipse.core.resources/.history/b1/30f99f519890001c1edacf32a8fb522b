@@ -1,0 +1,18 @@
+package JavaBean;
+
+import java.sql.ResultSet;
+
+
+import java.util.ArrayList;
+
+public interface IGenerica {
+	public String[] mostracolleghi();
+	public Persona BeanP(String nome, String cognome, String dataN,String citta);
+	public void insertPersona(Persona Beanp);
+	//public ResultSet ottieniLista(ArrayList<Persona> arrst);
+	//ResultSet ottieniLista();
+	void insertPassword(Persona persona1);
+
+	
+	
+}

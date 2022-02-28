@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="javax.swing.event.SwingPropertyChangeSupport"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="matematica.Calcoli"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Classi.uno"/>
+    <fullyQualifiedTypeName name="modelli.Importi"/>
+    <fullyQualifiedTypeName name="modelli.Persona"/>
+    <fullyQualifiedTypeName name="Persone"/>
+    <fullyQualifiedTypeName name="principale.Astratta"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="modelli.Alunno"/>
+    <fullyQualifiedTypeName name="Crud.Persona"/>
+    <fullyQualifiedTypeName name="Crud.Crud"/>
+    <fullyQualifiedTypeName name="java.sql.Array"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.beans.Statement"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="modelli.Indirizzi"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="Interfaccia.IInterfaccia"/>
+    <fullyQualifiedTypeName name="Generico.Generico"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="JavaBean.IGenerica"/>
+    <fullyQualifiedTypeName name="Sistema.Controllo"/>
+    <fullyQualifiedTypeName name="Connessioni.Connetti"/>
+    <fullyQualifiedTypeName name="Sistema.Generica"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="JavaBean.Password"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="JavaBean.Esami"/>
+    <fullyQualifiedTypeName name="JavaBean.Persona"/>
+    <fullyQualifiedTypeName name="JavaBean.Materie"/>
+</qualifiedTypeNameHistroy>

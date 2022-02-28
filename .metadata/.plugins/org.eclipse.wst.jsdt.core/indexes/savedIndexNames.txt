@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/Users/alexalessandria/wa/corso_umana/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2024821266.index
+2171521647.index
+4050808365.index
+2955414009.index
+2779297597.index
+548690921.index
+3179941717.index
+3176549539.index
+2528311156.index
